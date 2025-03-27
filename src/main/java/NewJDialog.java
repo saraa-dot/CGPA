@@ -3,10 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JDialog.java to edit this template
  */
 
-/**
- *
- * @author JOY
- */
+
 public class NewJDialog extends javax.swing.JDialog {
 
     /**
